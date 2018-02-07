@@ -3,23 +3,21 @@
 ## HTML
 
 - [ ] Uso adecuado de etiquetas (títulos, listas)
-- [ ] Uso adeciado de etiqeutas semánticas (aside, article)
+- [ ] Uso adecuado de etiqeutas semánticas (aside, article)
 - [ ] Uso correcto de inputs y labels en un formulario
 
 ## CSS - Sass
 
 - [ ] Selectores CSS (simples, complejos)
-- [ ] Pseudoclases
+- [ ] Pseudoclases (:hover, :first/last/nth-child, :not, ::before/after)
 - [ ] Modelo de caja: margin, padding, border, alto, ancho
 - [ ] Posicionamiento (absoluto, relativo, fijo)
 - [ ] Flexbox
-- [ ] Propiedades para responsive (em, min-width, %)
+- [ ] Propiedades para responsive (em, max/min-width, %)
 - [ ] Mediaqueries
 - [ ] Mobile first
 - [ ] Animaciones y transiciones
 - [ ] Grid
-- [ ] Peticiones al servidor
-- [ ] Promesas - fetch
 - [ ] Variables Sass
 - [ ] Estructura proyectos Sass
 - [ ] Anidar, mixins, funciones Sass
@@ -29,8 +27,8 @@
 
 - [ ] Uso de ramas en git
 - [ ] Merges y conflictos en git
-- [ ] gulp
 - [ ] Terminal de Linux
+- [ ] Gulp
 
 ## JavaScript
 
@@ -44,6 +42,8 @@
 - [ ] map, filter
 - [ ] Clases
 - [ ] this
+- [ ] Peticiones al servidor
+- [ ] Promesas - fetch
 
 ## React
 
