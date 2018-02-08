@@ -3,7 +3,7 @@
 ## HTML
 
 - [ ] Uso adecuado de etiquetas (títulos, listas)
-- [ ] Uso adecuado de etiqeutas semánticas (aside, article)
+- [ ] Uso adecuado de etiquetas semánticas (aside, article)
 - [ ] Uso correcto de inputs y labels en un formulario
 
 ## CSS - Sass
